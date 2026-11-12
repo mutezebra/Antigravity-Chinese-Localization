@@ -1,0 +1,77 @@
+{
+  "id": "upstream-2.31.0-b39779a",
+  "baseVersion": "2.31.0",
+  "sourceCommit": "b39779adc8fd40004888885b2fe0006d5f6b94a0",
+  "files": [
+    {
+      "path": "dist/cablev2.js",
+      "original": "9587de6e9ad895e6cccfee05f89cc094c3f3a789c86d62515ecf86bf05dbce33",
+      "patched": "a50fa31a8b0bc6a12c7b02ca9138fd13b41336b1eea8cc1eda8a4ba59b721672"
+    },
+    {
+      "path": "dist/deviceChooser.js",
+      "original": "2a1ea396868055a9024201e9702fddfd65805cd12230520d67dabb0e110cf113",
+      "patched": "efc079b6a6cc5283b8f1482b526a50861fd9e5709d398cf5a5dd09694dcea603"
+    },
+    {
+      "path": "dist/ideInstall/wizardHtml.js",
+      "original": "5eff5a777d5cfc26877ee1ea7889310c2afe0aa66d596f87f9bdc57ed41264b9",
+      "patched": "bb14b76ddacd55d8a82ca488168807900bde6362201e997d9b5ce086028c7118"
+    },
+    {
+      "path": "dist/ideInstall/wizardPreload.js",
+      "original": "4d222bac7a93aafd5cb8cd59dfb1de35bafc35e267ba7b8ef24f74db151068d5",
+      "patched": "fe9879521b28a0bb1d42449a555b20cececac4c0db8851035fe97c35ad31be85"
+    },
+    {
+      "path": "dist/ipcHandlers.js",
+      "original": "e45b442a3e8a55e521ead048bb858a1bbe8c282e1a5f9d7fab9366b843a44ead",
+      "patched": "db7c644c6fefec8f4d203be63138a3a3eb0468c1f4fbf6d242f0d13c285dcd7c"
+    },
+    {
+      "path": "dist/main.js",
+      "original": "0d297f7b38f73777e61fdcde103f026b1ae69af91e37edc937c9b37d5fe73d6e",
+      "patched": "0e5546a11659cfc523b8bff527585d46515ccde197fa0951920fb7db633864b8"
+    },
+    {
+      "path": "dist/menu.js",
+      "original": "34ce3fabe919e74eae9034fa1ee32c3202f3c40b2f5ffa642bee23a0958a5820",
+      "patched": "c5b2f19a277580867ea5dda6fa690cb5907e05c0b14d268e5ec5d5ca91ad7626"
+    },
+    {
+      "path": "dist/preload.js",
+      "original": "8457dc1fe5fa34ff138e041923a66b852e0a6fb1623b9aedcfb80f15dd98e9d7",
+      "patched": "e3398ecd4cb45b8c384f1183b0da7ce10af9543ef2a092c44a8db7f90189a361"
+    },
+    {
+      "path": "dist/provisionSplash.js",
+      "original": "737f40f02130440a9ec9a3fed83c2e62290029aece6d0ad558136fa510c45f35",
+      "patched": "b48554d663c580ae53babd5c60781806a8c88785e69c7eed303c88468d4ebd20"
+    },
+    {
+      "path": "dist/tray.js",
+      "original": "6c6b0968b45a1c7088e459657d57a9efd72d3733614349095f17b6ee94b47135",
+      "patched": "7d05c4d371f15daad5081b12173ec5106fcb82d322f158529a11830aa409f6d3"
+    },
+    {
+      "path": "dist/updater.js",
+      "original": "ef38da806d1db759ff94ec8b1181f057440150cedbab7992b633df8933951e04",
+      "patched": "86201cd08f350907dc2bb0a264f6cbd5571a9cc6787c02767ca1278003490ef1"
+    },
+    {
+      "path": "dist/webauthn.js",
+      "original": "006f2e03302059a6c6155b2e94405976df697bc488775dd9a7869fecb05828cf",
+      "patched": "98f2c1ad45646330f790a8ad513bf32949faf6dda1ff6d5ac8cf21640a498c65"
+    },
+    {
+      "path": "dist/webviewPopupSecurity.js",
+      "original": "d5a01ab622eebe65dba00ca1b276dc8842c7f2f0c435f354738ea31492c5c26d",
+      "patched": "4eef81ffd49dfb6b5f0e51337ab0de0868f9592ba71d89b6855a83d7cdc3b9ba"
+    },
+    {
+      "path": "dist/wsl.js",
+      "original": "933315c492bbb6ca3c8038cde91236c319fde00e6525553111e1d5e099805674",
+      "patched": "799eae6447f6f01c37446c73429e65b7d05cd1c25b65f2050357f9d80cbd77cb"
+    }
+  ]
+}

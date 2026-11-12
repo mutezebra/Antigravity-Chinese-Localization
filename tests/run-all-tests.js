@@ -2,6 +2,8 @@ const { execSync } = require('child_process');
 const path = require('path');
 
 const tests = [
+  'safe-reapply.test.js',
+  'safe-cli.test.js',
   'ticket-03-workflow-safety.test.js',
   'ticket-04-slash-commands.test.js',
   'ticket-05-at-mentions.test.js',

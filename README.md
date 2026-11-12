@@ -1,5 +1,7 @@
 # Antigravity-Chinese-Localization
 
+> **本 fork 的 macOS 安全重装入口**：双击 `macOS安全汉化.command`，或运行 `node macos-reapply.js check`。升级后按原始文件指纹重新汉化，保留新版程序，支持校验备份后恢复。详见 [使用说明](docs/macos-safe-reapply.md)。下方为上游原有功能说明，新入口不调用旧控制中心。
+
 Antigravity 深度汉化与高性能本地化补丁程序
 
 中文 | [English](README.en.md)
